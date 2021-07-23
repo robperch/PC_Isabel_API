@@ -4,3 +4,7 @@ credentials.yaml
 
 ## Mac OS
 .DS_Store
+
+
+## Pycharm
+.idea/
