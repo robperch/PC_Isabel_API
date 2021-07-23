@@ -1,0 +1,18 @@
+## Local credentials
+credentials.yaml
+
+
+## Mac OS
+.DS_Store
+
+
+## Pycharm
+.idea/
+
+
+## Jupyter
+.ipynb_checkpoints/
+
+
+## Python
+__pycache__/
