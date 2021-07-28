@@ -136,13 +136,25 @@ def read_json(path):
 
 
 ## Writing a JSON file
-def write_json():
+def write_json(path, api_text_output):
+    """
+    Writing a JSON file
+
+    :param path: (str) location of output file
+    :param api_text_output: (str) raw API output response
+    :return None:
     """
 
-    :return:
-    """
+    ## Creating open file object
+    jsonFile = open(path, "w")
 
-    ##
+    ## Writing formated API response into file
+    jsonFile.write(api_clean_response(api_text_output))
+
+    ## Closing file
+    jsonFile.close()
+
+    return
 
 
 

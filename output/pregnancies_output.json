@@ -1,0 +1,18 @@
+{
+  "pregnancies": {
+    "pregnancy": [
+      {
+        "pregnancy_id": "0",
+        "pregnancy_name": "(- not specified -)"
+      },
+      {
+        "pregnancy_id": "1",
+        "pregnancy_name": "not pregnant"
+      },
+      {
+        "pregnancy_id": "2",
+        "pregnancy_name": "pregnant"
+      }
+    ]
+  }
+}
