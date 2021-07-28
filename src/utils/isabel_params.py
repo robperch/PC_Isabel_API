@@ -29,8 +29,8 @@
 ## Location of credentials
 crds_loc = "../conf/local/credentials.yaml"
 
-## Location of feed files
-feed_loc = "../feed/"
+## Location of input files
+input_loc = "../input/"
 out_loc = "../output/"
 
 ## Reference for input/output files for API calls
@@ -55,6 +55,10 @@ inout_files = {
         "input": "ranked_differential_diagnoses_input.json",
         "output": "ranked_differential_diagnoses_output.json"
     },
+    "triage_score": {
+        "input": "triage_score_input.json",
+        "output": "triage_score_output.json"
+    },
 }
 
 
@@ -75,7 +79,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["age_groups"]["input"]
+            "params_input": input_loc + inout_files["age_groups"]["input"]
         },
 
         "regions": {
@@ -83,7 +87,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["regions"]["input"]
+            "params_input": input_loc + inout_files["regions"]["input"]
         },
 
         "countries": {
@@ -91,7 +95,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["countries"]["input"]
+            "params_input": input_loc + inout_files["countries"]["input"]
         },
 
         "pregnancies": {
@@ -99,7 +103,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["pregnancies"]["input"]
+            "params_input": input_loc + inout_files["pregnancies"]["input"]
         },
 
         "ranked_differential_diagnoses": {
@@ -116,7 +120,15 @@ isabel_api_params = {
                 "searchType", ## 0 (fixed value)
                 "web_service", ## json (fixed value)
             ],
-            "params_input": feed_loc + inout_files["ranked_differential_diagnoses"]["input"]
+            "params_input": input_loc + inout_files["ranked_differential_diagnoses"]["input"]
+        },
+
+        "triage_score": {
+            "params_required": [
+                "language",
+                "web_service"
+            ],
+            "params_input": input_loc + inout_files["pregnancies"]["input"]
         },
 
     },
