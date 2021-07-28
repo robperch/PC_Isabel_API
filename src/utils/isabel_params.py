@@ -31,6 +31,7 @@ crds_loc = "../conf/local/credentials.yaml"
 
 ## Location of feed files
 feed_loc = "../feed/"
+out_loc = "../feed/"
 
 ## Reference for input/output files for API calls
 inout_files = {
@@ -50,9 +51,9 @@ inout_files = {
         "input": "pregnancies_input.json",
         "output": "pregnancies_output.json"
     },
-    "rdd": {
-        "input": "rdd_input.json",
-        "output": "rdd_output.json"
+    "ranked_differential_diagnoses": {
+        "input": "ranked_differential_diagnoses_input.json",
+        "output": "ranked_differential_diagnoses_output.json"
     },
 }
 
@@ -101,7 +102,7 @@ isabel_api_params = {
             "params_input": feed_loc + inout_files["pregnancies"]["input"]
         },
 
-        "rdd": {
+        "ranked_differential_diagnoses": {
             "params_required": [
                 "specialties", ## 28 for rdd
                 "dob", ## format: YYMMDD
@@ -115,7 +116,7 @@ isabel_api_params = {
                 "searchType", ## 0 (fixed value)
                 "web_service", ## json (fixed value)
             ],
-            "params_input": feed_loc + inout_files["rdd"]["input"]
+            "params_input": feed_loc + inout_files["ranked_differential_diagnoses"]["input"]
         },
 
     },
