@@ -114,14 +114,17 @@ def api_clean_response(api_resp):
 
 
 ## Read JSON file
-def read_json():
+def read_json(path):
     """
     Read JSON file
 
+    :param path: (str) path where .json file that will be read is located
     :return json_cont: (dict) contents extracted from selected json file
     """
 
-    ## 
+    ## Storing opened file in variable
+    file = open(path, )
+    json_cont = json.load(file)
 
     return json_cont
 
@@ -144,7 +147,7 @@ def url_api_request(method):
     """
 
     ## Creating the base URL that will be enhanced later on
-    api_call_url = isabel_urls["base_url"]
+    api_call_url = isabel_api_params["base_url"]
 
     ## Pasting the method to the URL
     api_call_url += method + "?"
@@ -154,6 +157,16 @@ def url_api_request(method):
 
     ## Pasting authorization credentials
     api_call_url += "&authorization=" + get_isabel_crds()["sandbox_auth_key"]
+
+
+    ## Adding method parameters
+
+    #### Reading json file with inputs for parameters
+    json_cont = read_json(isabel_api_params["methods"][method]["params_input"])
+
+    #### Adding parameters and their values to URL
+    for param in isabel_api_params["methods"][method]["params_required"]:
+        api_call_url += "&" + param + "=" + json_cont[param]
 
 
     return api_call_url
