@@ -104,14 +104,17 @@ def api_clean_response(api_resp):
     """
     Print formatted api response
 
-    :return None:
+    :param api_resp: (str) API raw response as string
+    :return api_resp: (str) formatted API response
     """
 
     ## Eliminating characters outside json format
     api_resp = clean_api_request(api_resp)
 
     ## Formatting response
-    print(json.dumps(json.loads(api_resp), indent=2))
+    api_resp = json.dumps(json.loads(api_resp), indent=2)
+
+    return api_resp
 
 
 
@@ -129,6 +132,18 @@ def read_json(path):
     json_cont = json.load(file)
 
     return json_cont
+
+
+
+## Writing a JSON file
+def write_json():
+    """
+
+    :return:
+    """
+
+    ##
+
 
 
 
