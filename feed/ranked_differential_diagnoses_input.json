@@ -8,15 +8,7 @@
   "querytext": "cold,cough,fever",
   "flag": "sortbyRW_advanced",
   "suggest": "Suggest+Differential+Diagnosis",
-
-
-  "language": "english",
-  "web_service": "json"
+  "searchType": "0",
+  "web_service": "json",
+  "language": "english"
 }
-
-"""
-https://apiscsandbox.isabelhealthcare.com/v2/
-ranked_differential_diagnoses?
-callback=ranked_differential_diagnoses&
-searchType=0&
-web_service=json"
