@@ -1,0 +1,14 @@
+{
+  "specialties": "28",
+  "dob": "19850818",
+  "sex": "f",
+  "pregnant": "y",
+  "region": "1",
+  "country_id": "221",
+  "querytext": "cough",
+  "flag": "sortbyRW_advanced",
+  "suggest": "Suggest+Differential+Diagnosis",
+  "searchType": "0",
+  "web_service": "json",
+  "language": "english"
+}

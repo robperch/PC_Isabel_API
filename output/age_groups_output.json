@@ -1,0 +1,96 @@
+{
+  "age_groups": {
+    "age_group": [
+      {
+        "agegroup_id": "1",
+        "ordinal": "0",
+        "name": "newborn",
+        "yr_from": "0",
+        "yr_to": "28 d",
+        "branch": "paediatric",
+        "can_conceive": "false"
+      },
+      {
+        "agegroup_id": "2",
+        "ordinal": "2",
+        "name": "infant",
+        "yr_from": "29 d",
+        "yr_to": "1 yr",
+        "branch": "paediatric",
+        "can_conceive": "false"
+      },
+      {
+        "agegroup_id": "3",
+        "ordinal": "4",
+        "name": "younger child",
+        "yr_from": "1",
+        "yr_to": "5 yrs",
+        "branch": "paediatric",
+        "can_conceive": "false"
+      },
+      {
+        "agegroup_id": "10",
+        "ordinal": "5",
+        "name": "older child",
+        "yr_from": "6",
+        "yr_to": "12 yrs ",
+        "branch": "paediatric",
+        "can_conceive": "false"
+      },
+      {
+        "agegroup_id": "4",
+        "ordinal": "6",
+        "name": "adolescent",
+        "yr_from": "13",
+        "yr_to": "16 yrs",
+        "branch": "paediatric",
+        "can_conceive": "true"
+      },
+      {
+        "agegroup_id": "7",
+        "ordinal": "8",
+        "name": "young adult",
+        "yr_from": "17",
+        "yr_to": "29 yrs",
+        "branch": "adult",
+        "can_conceive": "true"
+      },
+      {
+        "agegroup_id": "5",
+        "ordinal": "10",
+        "name": "adult",
+        "yr_from": "30",
+        "yr_to": "39 yrs",
+        "branch": "adult",
+        "can_conceive": "true"
+      },
+      {
+        "agegroup_id": "8",
+        "ordinal": "12",
+        "name": "adult",
+        "yr_from": "40",
+        "yr_to": "49 yrs",
+        "branch": "adult",
+        "can_conceive": "true"
+      },
+      {
+        "agegroup_id": "9",
+        "ordinal": "14",
+        "name": "adult",
+        "yr_from": "50",
+        "yr_to": "64 yrs",
+        "branch": "adult",
+        "can_conceive": "true"
+      },
+      {
+        "agegroup_id": "6",
+        "ordinal": "16",
+        "name": "senior",
+        "yr_from": "65 yrs",
+        "yr_to": "over",
+        "branch": "adult",
+        "can_conceive": "false"
+      }
+    ]
+  }
+}

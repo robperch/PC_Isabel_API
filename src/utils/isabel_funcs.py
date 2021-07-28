@@ -24,7 +24,9 @@ import json
 from src.utils.isabel_params import (
     crds_loc,
     feed_loc,
-    isabel_api_params
+    out_loc,
+    inout_files,
+    isabel_api_params,
 )
 
 
@@ -102,28 +104,58 @@ def api_clean_response(api_resp):
     """
     Print formatted api response
 
-    :return None:
+    :param api_resp: (str) API raw response as string
+    :return api_resp: (str) formatted API response
     """
 
     ## Eliminating characters outside json format
     api_resp = clean_api_request(api_resp)
 
     ## Formatting response
-    print(json.dumps(json.loads(api_resp), indent=2))
+    api_resp = json.dumps(json.loads(api_resp), indent=2)
+
+    return api_resp
 
 
 
 ## Read JSON file
-def read_json():
+def read_json(path):
     """
     Read JSON file
 
+    :param path: (str) path where .json file that will be read is located
     :return json_cont: (dict) contents extracted from selected json file
     """
 
-    ## 
+    ## Storing opened file in variable
+    file = open(path, )
+    json_cont = json.load(file)
 
     return json_cont
+
+
+
+## Writing a JSON file
+def write_json(path, api_text_output):
+    """
+    Writing a JSON file
+
+    :param path: (str) location of output file
+    :param api_text_output: (str) raw API output response
+    :return None:
+    """
+
+    ## Creating open file object
+    jsonFile = open(path, "w")
+
+    ## Writing formated API response into file
+    jsonFile.write(api_clean_response(api_text_output))
+
+    ## Closing file
+    jsonFile.close()
+
+    return
+
 
 
 
@@ -144,7 +176,7 @@ def url_api_request(method):
     """
 
     ## Creating the base URL that will be enhanced later on
-    api_call_url = isabel_urls["base_url"]
+    api_call_url = isabel_api_params["base_url"]
 
     ## Pasting the method to the URL
     api_call_url += method + "?"
@@ -154,6 +186,16 @@ def url_api_request(method):
 
     ## Pasting authorization credentials
     api_call_url += "&authorization=" + get_isabel_crds()["sandbox_auth_key"]
+
+
+    ## Adding method parameters
+
+    #### Reading json file with inputs for parameters
+    json_cont = read_json(isabel_api_params["methods"][method]["params_input"])
+
+    #### Adding parameters and their values to URL
+    for param in isabel_api_params["methods"][method]["params_required"]:
+        api_call_url += "&" + param + "=" + json_cont[param]
 
 
     return api_call_url
