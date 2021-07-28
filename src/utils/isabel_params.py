@@ -29,8 +29,32 @@
 ## Location of credentials
 crds_loc = "../conf/local/credentials.yaml"
 
-## Location of feedfiles
+## Location of feed files
 feed_loc = "../feed/"
+
+## Reference for input/output files for API calls
+inout_files = {
+    "age_groups": {
+        "input": "age_groups_input.json",
+        "output": "age_groups_output.json"
+    },
+    "regions": {
+        "input": "regions_input.json",
+        "output": "regions_output.json"
+    },
+    "countries": {
+        "input": "countries_input.json",
+        "output": "countries_output.json"
+    },
+    "pregnancies": {
+        "input": "pregnancies_input.json",
+        "output": "pregnancies_output.json"
+    },
+    "rdd": {
+        "input": "rdd_input.json",
+        "output": "rdd_output.json"
+    },
+}
 
 
 
@@ -50,7 +74,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + "age_groups_input.json"
+            "params_input": feed_loc + inout_files["age_groups"]["input"]
         },
 
         "regions": {
@@ -58,7 +82,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + "regions_input.json"
+            "params_input": feed_loc + inout_files["regions"]["input"]
         },
 
         "countries": {
@@ -66,7 +90,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + "countries_input.json"
+            "params_input": feed_loc + inout_files["countries"]["input"]
         },
 
         "pregnancies": {
@@ -74,10 +98,10 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + "pregnancies_input.json"
+            "params_input": feed_loc + inout_files["pregnancies"]["input"]
         },
 
-        "ranked_differential_diagnoses": {
+        "rdd": {
             "params_required": [
                 "specialties", ## 28 for rdd
                 "dob", ## format: YYMMDD
@@ -91,7 +115,7 @@ isabel_api_params = {
                 "searchType", ## 0 (fixed value)
                 "web_service", ## json (fixed value)
             ],
-            "params_input": feed_loc + "ranked_differential_diagnoses_input.json"
+            "params_input": feed_loc + inout_files["rdd"]["input"]
         },
 
     },
