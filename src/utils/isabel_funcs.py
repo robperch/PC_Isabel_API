@@ -23,7 +23,7 @@ import json
 ## Local application imports
 from src.utils.isabel_params import (
     crds_loc,
-    feed_loc,
+    input_loc,
     out_loc,
     inout_files,
     isabel_api_params,
