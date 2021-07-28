@@ -31,7 +31,7 @@ crds_loc = "../conf/local/credentials.yaml"
 
 ## Location of feed files
 feed_loc = "../feed/"
-out_loc = "../feed/"
+out_loc = "../output/"
 
 ## Reference for input/output files for API calls
 inout_files = {
