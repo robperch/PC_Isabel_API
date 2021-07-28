@@ -88,12 +88,10 @@ isabel_api_params = {
                 "querytext", ## symptoms comma separated “,” E.g. – fever,cold,nausea
                 "flag", ## Pass “red_flag” for don't miss diagnoses or “sortbyRW_advanced” for most relevant diagnoses (ranked list of diagnoses)
                 "suggest", ## Suggest+Differential+Diagnosis (fixed value)
-                "searchType",
-                "web_service",
-                # "callback",
-                # "authorization",
+                "searchType", ## 0 (fixed value)
+                "web_service", ## json (fixed value)
             ],
-            "params_input": feed_loc + "pregnancies_input.json"
+            "params_input": feed_loc + "ranked_differential_diagnoses_input.json"
         },
 
     },
