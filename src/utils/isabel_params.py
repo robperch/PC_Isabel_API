@@ -29,9 +29,11 @@
 ## Location of credentials
 crds_loc = "../conf/local/credentials.yaml"
 
+
 ## Location of input files
 input_loc = "../input/"
 out_loc = "../output/"
+
 
 ## Reference for input/output files for API calls
 inout_files = {
@@ -58,6 +60,23 @@ inout_files = {
     "triage_score": {
         "input": "triage_score_input.json",
         "output": "triage_score_output.json"
+    },
+}
+
+
+## Reference limits for triage score
+triage_reference_limits = {
+    "VERDE - Ir a clínica/Telemedicina": {
+        "il": 0,
+        "sl": 39
+    },
+    "AMBAR - Médico familiar/Clínica de cuidados urgentes/Unidad de heridas menores": {
+        "il": 40,
+        "sl": 79
+    },
+    "ROJO - Servicios de emergencia/Unidad de urgencias": {
+        "il": 80,
+        "sl": 150
     },
 }
 
@@ -125,10 +144,22 @@ isabel_api_params = {
 
         "triage_score": {
             "params_required": [
-                "language",
-                "web_service"
+                "dx", ## Fixed value of 1 (I guess)
+                "age",
+                "sex",
+                "pregnancy",
+                "region",
+                "text",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                "Q6",
+                "Q7",
+                "web_service", ## json (fixed value)
             ],
-            "params_input": input_loc + inout_files["pregnancies"]["input"]
+            "params_input": input_loc + inout_files["triage_score"]["input"]
         },
 
     },
