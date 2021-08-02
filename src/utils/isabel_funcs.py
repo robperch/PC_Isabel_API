@@ -99,17 +99,20 @@ def clean_api_request(api_txt):
 
 
 
-## Print formatted api response
-def api_clean_response(api_resp):
+## Print api response with visual and content improvements
+def enhance_api_response(api_resp):
     """
-    Print formatted api response
+    Print api response with visual and content improvements
 
     :param api_resp: (str) API raw response as string
-    :return api_resp: (str) formatted API response
+    :return api_resp: (str) enhanced API response
     """
 
     ## Eliminating characters outside json format
     api_resp = clean_api_request(api_resp)
+
+    ## Complementing API response with relevant information
+    # api_resp = clean_api_request(api_resp)
 
     ## Formatting response
     api_resp = json.dumps(json.loads(api_resp), indent=2)
@@ -149,7 +152,7 @@ def write_json(path, api_text_output):
     jsonFile = open(path, "w")
 
     ## Writing formated API response into file
-    jsonFile.write(api_clean_response(api_text_output))
+    jsonFile.write(enhance_api_response(api_text_output))
 
     ## Closing file
     jsonFile.close()
@@ -199,6 +202,23 @@ def url_api_request(method):
 
 
     return api_call_url
+
+
+
+## Add new information to API response
+def complement_api_response(method, api_txt):
+    """
+
+    :param method: (str) name of the method that will be called using the API
+    :param api_txt: (str) raw api response
+    :return:
+    """
+    
+    ## Adding new data depending on the method called
+    if method == "triage_score":
+        print("hola")
+    else:
+        print("No complementary information was added to the response")
 
 
 
