@@ -138,6 +138,7 @@ isabel_api_params = {
                 "suggest", ## Suggest+Differential+Diagnosis (fixed value)
                 "searchType", ## 0 (fixed value)
                 "web_service", ## json (fixed value)
+                "language",  ## json (fixed value)
             ],
             "params_input": input_loc + inout_files["ranked_differential_diagnoses"]["input"]
         },
