@@ -27,17 +27,17 @@
 ########################
 
 ## Credentials info
-crds_loc = "../conf/local/credentials.yaml"
+crds_loc = "conf/local/credentials.yaml"
 crd_use = "sandbox_auth_key_SC"
 
 
 ## Base URL that is being used
-sel_base_url = "sandbox_sc_spanish"
+sel_base_url = "sandbox_sc_english"
 
 
 ## Location of input files
-input_loc = "../input/"
-out_loc = "../output/"
+input_loc = "input/"
+out_loc = "output/"
 
 
 ## Reference for input/output files for API calls
