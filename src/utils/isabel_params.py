@@ -27,17 +27,17 @@
 ########################
 
 ## Credentials info
-crds_loc = "../conf/local/credentials.yaml"
+crds_loc = "conf/local/credentials.yaml"
 crd_use = "sandbox_auth_key_SC"
 
 
 ## Base URL that is being used
-sel_base_url = "sandbox_sc_spanish"
+sel_base_url = "sandbox_sc_english"
 
 
 ## Location of input files
-input_loc = "../input/"
-out_loc = "../output/"
+input_loc = "input/"
+out_loc = "output/"
 
 
 ## Reference for input/output files for API calls
@@ -114,7 +114,8 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": input_loc + inout_files["age_groups"]["input"]
+            "params_input": input_loc + inout_files["age_groups"]["input"],
+            "usage": "GUI"
         },
 
         "regions": {
@@ -122,7 +123,8 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": input_loc + inout_files["regions"]["input"]
+            "params_input": input_loc + inout_files["regions"]["input"],
+            "usage": "GUI"
         },
 
         "countries": {
@@ -130,7 +132,8 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": input_loc + inout_files["countries"]["input"]
+            "params_input": input_loc + inout_files["countries"]["input"],
+            "usage": "GUI"
         },
 
         "pregnancies": {
@@ -138,7 +141,8 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": input_loc + inout_files["pregnancies"]["input"]
+            "params_input": input_loc + inout_files["pregnancies"]["input"],
+            "usage": "GUI"
         },
 
         "ranked_differential_diagnoses": {
@@ -156,7 +160,8 @@ isabel_api_params = {
                 "web_service", ## json (fixed value)
                 # "language",  ## json (fixed value)
             ],
-            "params_input": input_loc + inout_files["ranked_differential_diagnoses"]["input"]
+            "params_input": input_loc + inout_files["ranked_differential_diagnoses"]["input"],
+            "usage": "rdd"
         },
 
         "triage_score": {
@@ -176,7 +181,8 @@ isabel_api_params = {
                 "Q7",
                 "web_service", ## json (fixed value)
             ],
-            "params_input": input_loc + inout_files["triage_score"]["input"]
+            "params_input": input_loc + inout_files["triage_score"]["input"],
+            "usage": "triage"
         },
 
     },
