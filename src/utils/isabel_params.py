@@ -31,6 +31,10 @@ crds_loc = "../conf/local/credentials.yaml"
 crd_use = "sandbox_auth_key_SC"
 
 
+## Base URL that is being used
+sel_base_url = "sandbox_english"
+
+
 ## Location of input files
 input_loc = "../input/"
 out_loc = "../output/"
@@ -90,9 +94,18 @@ triage_reference_limits = {
 ## Isabel parameters ##
 #######################
 
+## Reference of all the base URL's available for the API calls
+isabel_base_urls = {
+    "sandbox_english": "https://apiscsandbox.isabelhealthcare.com/v2/",
+    "sandbox_spanish": "https://esscstsandbox.isabelhealthcare.com/v2/"
+}
+
+
+## Reference of all the API parameters required
 isabel_api_params = {
-    # "base_url": "https://apiscsandbox.isabelhealthcare.com/v2/", ## English
-    "base_url": "https://esscstsandbox.isabelhealthcare.com/v2/", ## Spanish
+
+    "base_url": isabel_base_urls[sel_base_url],
+
     "methods": {
 
         "age_groups": {
