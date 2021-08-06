@@ -116,7 +116,7 @@ def enhance_api_response(api_resp):
     # api_resp = clean_api_request(api_resp)
 
     ## Formatting response
-    api_resp = json.dumps(json.loads(api_resp), indent=2)
+    api_resp = json.dumps(json.loads(api_resp), ensure_ascii=False, indent=2)
 
     return api_resp
 
