@@ -90,7 +90,8 @@ triage_reference_limits = {
 #######################
 
 isabel_api_params = {
-    "base_url": "https://apiscsandbox.isabelhealthcare.com/v2/",
+    # "base_url": "https://apiscsandbox.isabelhealthcare.com/v2/", ## English
+    "base_url": "https://esscstsandbox.isabelhealthcare.com/v2/", ## Spanish
     "methods": {
 
         "age_groups": {
@@ -138,7 +139,7 @@ isabel_api_params = {
                 "suggest", ## Suggest+Differential+Diagnosis (fixed value)
                 "searchType", ## 0 (fixed value)
                 "web_service", ## json (fixed value)
-                "language",  ## json (fixed value)
+                # "language",  ## json (fixed value)
             ],
             "params_input": input_loc + inout_files["ranked_differential_diagnoses"]["input"]
         },
