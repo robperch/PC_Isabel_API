@@ -15,25 +15,25 @@
         "ordinal": "2",
         "name": "infantil",
         "yr_from": "29d",
-        "yr_to": "1 a\u00f1o",
+        "yr_to": "1 año",
         "branch": "paediatric",
         "can_conceive": "false"
       },
       {
         "agegroup_id": "3",
         "ordinal": "4",
-        "name": "ni\u00f1o peque\u00f1o",
+        "name": "niño pequeño",
         "yr_from": "1",
-        "yr_to": "5 a\u00f1os",
+        "yr_to": "5 años",
         "branch": "paediatric",
         "can_conceive": "false"
       },
       {
         "agegroup_id": "10",
         "ordinal": "5",
-        "name": "ni\u00f1o grande",
+        "name": "niño grande",
         "yr_from": "6",
-        "yr_to": "12 a\u00f1os",
+        "yr_to": "12 años",
         "branch": "paediatric",
         "can_conceive": "false"
       },
@@ -42,7 +42,7 @@
         "ordinal": "6",
         "name": "adolescente",
         "yr_from": "13",
-        "yr_to": "16 a\u00f1os",
+        "yr_to": "16 años",
         "branch": "paediatric",
         "can_conceive": "true"
       },
@@ -51,7 +51,7 @@
         "ordinal": "8",
         "name": "joven-adulto",
         "yr_from": "17",
-        "yr_to": "29 a\u00f1os",
+        "yr_to": "29 años",
         "branch": "adult",
         "can_conceive": "true"
       },
@@ -60,7 +60,7 @@
         "ordinal": "10",
         "name": "adulto",
         "yr_from": "30",
-        "yr_to": "39 a\u00f1os",
+        "yr_to": "39 años",
         "branch": "adult",
         "can_conceive": "true"
       },
@@ -69,7 +69,7 @@
         "ordinal": "12",
         "name": "adulto",
         "yr_from": "40",
-        "yr_to": "49 a\u00f1os",
+        "yr_to": "49 años",
         "branch": "adult",
         "can_conceive": "true"
       },
@@ -78,16 +78,16 @@
         "ordinal": "14",
         "name": "adulto",
         "yr_from": "50",
-        "yr_to": "64 a\u00f1os",
+        "yr_to": "64 años",
         "branch": "adult",
         "can_conceive": "true"
       },
       {
         "agegroup_id": "6",
         "ordinal": "16",
-        "name": "geri\u00e1trica",
-        "yr_from": "m\u00e1s de",
-        "yr_to": "65 a\u00f1os",
+        "name": "geriátrica",
+        "yr_from": "más de",
+        "yr_to": "65 años",
         "branch": "adult",
         "can_conceive": "false"
       }
