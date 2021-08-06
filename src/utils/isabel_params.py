@@ -32,7 +32,7 @@ crd_use = "sandbox_auth_key_SC"
 
 
 ## Base URL that is being used
-sel_base_url = "sandbox_english"
+sel_base_url = "sandbox_sc_spanish"
 
 
 ## Location of input files
@@ -96,8 +96,9 @@ triage_reference_limits = {
 
 ## Reference of all the base URL's available for the API calls
 isabel_base_urls = {
-    "sandbox_english": "https://apiscsandbox.isabelhealthcare.com/v2/",
-    "sandbox_spanish": "https://esscstsandbox.isabelhealthcare.com/v2/"
+    "sandbox_sc_english": "https://apiscsandbox.isabelhealthcare.com/v2/",
+    "sandbox_sc_spanish": "https://esscstsandbox.isabelhealthcare.com/v2/",
+    "sandbox_pro_spanish": "https://esapisandbox.isabelhealthcare.com/v2/"
 }
 
 
