@@ -5,10 +5,9 @@
   "pregnant": "y",
   "region": "1",
   "country_id": "221",
-  "querytext": "cough",
+  "querytext": "fiebre",
   "flag": "sortbyRW_advanced",
   "suggest": "Suggest+Differential+Diagnosis",
   "searchType": "0",
-  "web_service": "json",
-  "language": "english"
+  "web_service": "json"
 }

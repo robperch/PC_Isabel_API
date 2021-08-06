@@ -26,12 +26,19 @@
 ## General parameters ##
 ########################
 
-## Location of credentials
+## Credentials info
 crds_loc = "../conf/local/credentials.yaml"
+crd_use = "sandbox_auth_key_SC"
 
-## Location of feed files
-feed_loc = "../feed/"
+
+## Base URL that is being used
+sel_base_url = "sandbox_english"
+
+
+## Location of input files
+input_loc = "../input/"
 out_loc = "../output/"
+
 
 ## Reference for input/output files for API calls
 inout_files = {
@@ -55,6 +62,27 @@ inout_files = {
         "input": "ranked_differential_diagnoses_input.json",
         "output": "ranked_differential_diagnoses_output.json"
     },
+    "triage_score": {
+        "input": "triage_score_input.json",
+        "output": "triage_score_output.json"
+    },
+}
+
+
+## Reference limits for triage score
+triage_reference_limits = {
+    "VERDE - Ir a clínica/Telemedicina": {
+        "il": 0,
+        "sl": 39
+    },
+    "AMBAR - Médico familiar/Clínica de cuidados urgentes/Unidad de heridas menores": {
+        "il": 40,
+        "sl": 79
+    },
+    "ROJO - Servicios de emergencia/Unidad de urgencias": {
+        "il": 80,
+        "sl": 150
+    },
 }
 
 
@@ -66,8 +94,18 @@ inout_files = {
 ## Isabel parameters ##
 #######################
 
+## Reference of all the base URL's available for the API calls
+isabel_base_urls = {
+    "sandbox_english": "https://apiscsandbox.isabelhealthcare.com/v2/",
+    "sandbox_spanish": "https://esscstsandbox.isabelhealthcare.com/v2/"
+}
+
+
+## Reference of all the API parameters required
 isabel_api_params = {
-    "base_url": "https://apiscsandbox.isabelhealthcare.com/v2/",
+
+    "base_url": isabel_base_urls[sel_base_url],
+
     "methods": {
 
         "age_groups": {
@@ -75,7 +113,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["age_groups"]["input"]
+            "params_input": input_loc + inout_files["age_groups"]["input"]
         },
 
         "regions": {
@@ -83,7 +121,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["regions"]["input"]
+            "params_input": input_loc + inout_files["regions"]["input"]
         },
 
         "countries": {
@@ -91,7 +129,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["countries"]["input"]
+            "params_input": input_loc + inout_files["countries"]["input"]
         },
 
         "pregnancies": {
@@ -99,7 +137,7 @@ isabel_api_params = {
                 "language",
                 "web_service"
             ],
-            "params_input": feed_loc + inout_files["pregnancies"]["input"]
+            "params_input": input_loc + inout_files["pregnancies"]["input"]
         },
 
         "ranked_differential_diagnoses": {
@@ -115,8 +153,29 @@ isabel_api_params = {
                 "suggest", ## Suggest+Differential+Diagnosis (fixed value)
                 "searchType", ## 0 (fixed value)
                 "web_service", ## json (fixed value)
+                # "language",  ## json (fixed value)
             ],
-            "params_input": feed_loc + inout_files["ranked_differential_diagnoses"]["input"]
+            "params_input": input_loc + inout_files["ranked_differential_diagnoses"]["input"]
+        },
+
+        "triage_score": {
+            "params_required": [
+                "dx", ## Fixed value of 1 (I guess)
+                "age",
+                "sex",
+                "pregnancy",
+                "region",
+                "text",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                "Q6",
+                "Q7",
+                "web_service", ## json (fixed value)
+            ],
+            "params_input": input_loc + inout_files["triage_score"]["input"]
         },
 
     },
