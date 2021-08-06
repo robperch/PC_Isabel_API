@@ -3,15 +3,15 @@
     "pregnancy": [
       {
         "pregnancy_id": "0",
-        "pregnancy_name": "(- sin especificar -)"
+        "pregnancy_name": "(- not specified -)"
       },
       {
         "pregnancy_id": "1",
-        "pregnancy_name": "no-embarazada"
+        "pregnancy_name": "not pregnant"
       },
       {
         "pregnancy_id": "2",
-        "pregnancy_name": "embarazada"
+        "pregnancy_name": "pregnant"
       }
     ]
   }

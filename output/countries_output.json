@@ -3,7 +3,7 @@
     "country": [
       {
         "country_id": "1",
-        "country_name": "Afganistán",
+        "country_name": "Afghanistan",
         "abbreviation": "AF",
         "region_id": "17"
       },
@@ -15,13 +15,13 @@
       },
       {
         "country_id": "3",
-        "country_name": "Argelia",
+        "country_name": "Algeria",
         "abbreviation": "DZ",
         "region_id": "4"
       },
       {
         "country_id": "4",
-        "country_name": "Islas Vírgenes Americanas",
+        "country_name": "Amer.Virgin Is.",
         "abbreviation": "VI",
         "region_id": "14"
       },
@@ -39,19 +39,19 @@
       },
       {
         "country_id": "7",
-        "country_name": "Anguila",
+        "country_name": "Anguilla",
         "abbreviation": "AI",
         "region_id": "11"
       },
       {
         "country_id": "8",
-        "country_name": "Antártida",
+        "country_name": "Antarctica",
         "abbreviation": "AQ",
         "region_id": "1"
       },
       {
         "country_id": "9",
-        "country_name": "Antigua / Barbads",
+        "country_name": "Antigua/Barbads",
         "abbreviation": "AG",
         "region_id": "11"
       },
@@ -87,7 +87,7 @@
       },
       {
         "country_id": "15",
-        "country_name": "Azerbaiyán",
+        "country_name": "Azerbaijan",
         "abbreviation": "AZ",
         "region_id": "17"
       },
@@ -99,7 +99,7 @@
       },
       {
         "country_id": "17",
-        "country_name": "Bahrein",
+        "country_name": "Bahrain",
         "abbreviation": "BH",
         "region_id": "17"
       },
@@ -117,19 +117,19 @@
       },
       {
         "country_id": "20",
-        "country_name": "Bielorrusia",
+        "country_name": "Belarus",
         "abbreviation": "BY",
         "region_id": "2"
       },
       {
         "country_id": "21",
-        "country_name": "Bélgica",
+        "country_name": "Belgium",
         "abbreviation": "BE",
         "region_id": "1"
       },
       {
         "country_id": "22",
-        "country_name": "Belice",
+        "country_name": "Belize",
         "abbreviation": "BZ",
         "region_id": "13"
       },
@@ -141,13 +141,13 @@
       },
       {
         "country_id": "24",
-        "country_name": "Bermudas",
+        "country_name": "Bermuda",
         "abbreviation": "BM",
         "region_id": "11"
       },
       {
         "country_id": "25",
-        "country_name": "Bután",
+        "country_name": "Bhutan",
         "abbreviation": "BT",
         "region_id": "10"
       },
@@ -159,7 +159,7 @@
       },
       {
         "country_id": "27",
-        "country_name": "Bosnia-Herz",
+        "country_name": "Bosnia-Herz.",
         "abbreviation": "BA",
         "region_id": "2"
       },
@@ -171,13 +171,13 @@
       },
       {
         "country_id": "29",
-        "country_name": "Isla Bouvet",
+        "country_name": "Bouvet Island",
         "abbreviation": "BV",
         "region_id": "1"
       },
       {
         "country_id": "30",
-        "country_name": "Brasil",
+        "country_name": "Brazil",
         "abbreviation": "BR",
         "region_id": "14"
       },
@@ -189,7 +189,7 @@
       },
       {
         "country_id": "32",
-        "country_name": "Brit.Virgin Is",
+        "country_name": "Brit.Virgin Is.",
         "abbreviation": "VG",
         "region_id": "11"
       },
@@ -213,7 +213,7 @@
       },
       {
         "country_id": "240",
-        "country_name": "Birmania",
+        "country_name": "Burma",
         "abbreviation": "BU",
         "region_id": "8"
       },
@@ -225,31 +225,31 @@
       },
       {
         "country_id": "37",
-        "country_name": "Camboya",
+        "country_name": "Cambodia",
         "abbreviation": "KH",
         "region_id": "8"
       },
       {
         "country_id": "38",
-        "country_name": "Camerún",
+        "country_name": "Cameroon",
         "abbreviation": "CM",
         "region_id": "3"
       },
       {
         "country_id": "39",
-        "country_name": "Canadá",
+        "country_name": "Canada",
         "abbreviation": "CA",
         "region_id": "12"
       },
       {
         "country_id": "40",
-        "country_name": "Cabo Verde",
+        "country_name": "Cape Verde",
         "abbreviation": "CV",
         "region_id": "7"
       },
       {
         "country_id": "41",
-        "country_name": "Islas Caimán",
+        "country_name": "Cayman Islands",
         "abbreviation": "KY",
         "region_id": "11"
       },
@@ -327,7 +327,7 @@
       },
       {
         "country_id": "54",
-        "country_name": "Croacia",
+        "country_name": "Croatia",
         "abbreviation": "HR",
         "region_id": "2"
       },
@@ -339,19 +339,19 @@
       },
       {
         "country_id": "56",
-        "country_name": "Chipre",
+        "country_name": "Cyprus",
         "abbreviation": "CY",
         "region_id": "17"
       },
       {
         "country_id": "57",
-        "country_name": "República Checa",
+        "country_name": "Czech Republic",
         "abbreviation": "CZ",
         "region_id": "2"
       },
       {
         "country_id": "58",
-        "country_name": "Dinamarca",
+        "country_name": "Denmark",
         "abbreviation": "DK",
         "region_id": "1"
       },
@@ -369,13 +369,13 @@
       },
       {
         "country_id": "61",
-        "country_name": "República Dominicana",
+        "country_name": "Dominican Rep.",
         "abbreviation": "DO",
         "region_id": "11"
       },
       {
         "country_id": "241",
-        "country_name": "Timor Oriental",
+        "country_name": "East Timor",
         "abbreviation": "TI",
         "region_id": "8"
       },
@@ -387,7 +387,7 @@
       },
       {
         "country_id": "63",
-        "country_name": "Egipto",
+        "country_name": "Egypt",
         "abbreviation": "EG",
         "region_id": "4"
       },
@@ -399,7 +399,7 @@
       },
       {
         "country_id": "65",
-        "country_name": "Ecuatorial Guin",
+        "country_name": "Equatorial Guin",
         "abbreviation": "GQ",
         "region_id": "3"
       },
@@ -417,19 +417,19 @@
       },
       {
         "country_id": "68",
-        "country_name": "Etiopía",
+        "country_name": "Ethiopia",
         "abbreviation": "ET",
         "region_id": "5"
       },
       {
         "country_id": "69",
-        "country_name": "Islas Feroe",
+        "country_name": "Faeroe Islands",
         "abbreviation": "FO",
         "region_id": "1"
       },
       {
         "country_id": "70",
-        "country_name": "Islas Malvinas",
+        "country_name": "Falkland Islnds",
         "abbreviation": "FK",
         "region_id": "15"
       },
@@ -441,37 +441,37 @@
       },
       {
         "country_id": "72",
-        "country_name": "Finlandia",
+        "country_name": "Finland",
         "abbreviation": "FI",
         "region_id": "1"
       },
       {
         "country_id": "73",
-        "country_name": "Francia",
+        "country_name": "France",
         "abbreviation": "FR",
         "region_id": "1"
       },
       {
         "country_id": "75",
-        "country_name": "Guinea Francesa",
+        "country_name": "French Guinea",
         "abbreviation": "GF",
         "region_id": "15"
       },
       {
         "country_id": "74",
-        "country_name": "Frenc.Polinesia",
+        "country_name": "Frenc.Polynesia",
         "abbreviation": "PF",
         "region_id": "16"
       },
       {
         "country_id": "76",
-        "country_name": "Gabón",
+        "country_name": "Gabon",
         "abbreviation": "GA",
         "region_id": "3"
       },
       {
         "country_id": "77",
-        "country_name": "Gambi a",
+        "country_name": "Gambia",
         "abbreviation": "GM",
         "region_id": "7"
       },
@@ -483,7 +483,7 @@
       },
       {
         "country_id": "79",
-        "country_name": "Alemania",
+        "country_name": "Germany",
         "abbreviation": "DE",
         "region_id": "1"
       },
@@ -501,25 +501,25 @@
       },
       {
         "country_id": "82",
-        "country_name": "Grecia",
+        "country_name": "Greece",
         "abbreviation": "GR",
         "region_id": "1"
       },
       {
         "country_id": "83",
-        "country_name": "Groenlandia",
+        "country_name": "Greenland",
         "abbreviation": "GL",
         "region_id": "1"
       },
       {
         "country_id": "84",
-        "country_name": "Granada",
+        "country_name": "Grenada",
         "abbreviation": "GD",
         "region_id": "11"
       },
       {
         "country_id": "85",
-        "country_name": "Guadalupe",
+        "country_name": "Guadeloupe",
         "abbreviation": "GP",
         "region_id": "11"
       },
@@ -543,7 +543,7 @@
       },
       {
         "country_id": "89",
-        "country_name": "Guinea- Bissau",
+        "country_name": "Guinea-Bissau",
         "abbreviation": "GW",
         "region_id": "7"
       },
@@ -555,13 +555,13 @@
       },
       {
         "country_id": "91",
-        "country_name": "Haití",
+        "country_name": "Haiti",
         "abbreviation": "HT",
         "region_id": "11"
       },
       {
         "country_id": "92",
-        "country_name": "Heard / McDon.Isl",
+        "country_name": "Heard/McDon.Isl",
         "abbreviation": "HM",
         "region_id": "16"
       },
@@ -579,13 +579,13 @@
       },
       {
         "country_id": "95",
-        "country_name": "Hungría",
+        "country_name": "Hungary",
         "abbreviation": "HU",
         "region_id": "2"
       },
       {
         "country_id": "96",
-        "country_name": "Islandia",
+        "country_name": "Iceland",
         "abbreviation": "IS",
         "region_id": "1"
       },
@@ -603,7 +603,7 @@
       },
       {
         "country_id": "99",
-        "country_name": "Irán",
+        "country_name": "Iran",
         "abbreviation": "IR",
         "region_id": "17"
       },
@@ -615,7 +615,7 @@
       },
       {
         "country_id": "101",
-        "country_name": "Irlanda",
+        "country_name": "Ireland",
         "abbreviation": "IE",
         "region_id": "1"
       },
@@ -627,13 +627,13 @@
       },
       {
         "country_id": "103",
-        "country_name": "Italia",
+        "country_name": "Italy",
         "abbreviation": "IT",
         "region_id": "1"
       },
       {
         "country_id": "104",
-        "country_name": "Costa de Marfil",
+        "country_name": "Ivory Coast",
         "abbreviation": "IV",
         "region_id": "7"
       },
@@ -645,31 +645,31 @@
       },
       {
         "country_id": "106",
-        "country_name": "Japón",
+        "country_name": "Japan",
         "abbreviation": "JP",
         "region_id": "9"
       },
       {
         "country_id": "107",
-        "country_name": "Jordania",
+        "country_name": "Jordan",
         "abbreviation": "JO",
         "region_id": "17"
       },
       {
         "country_id": "108",
-        "country_name": "Kazajstán",
+        "country_name": "Kazakhstan",
         "abbreviation": "KZ",
         "region_id": "17"
       },
       {
         "country_id": "109",
-        "country_name": "Kenia",
+        "country_name": "Kenya",
         "abbreviation": "KE",
         "region_id": "5"
       },
       {
         "country_id": "110",
-        "country_name": "Kirguistán",
+        "country_name": "Kirghistan",
         "abbreviation": "KG",
         "region_id": "17"
       },
@@ -693,13 +693,13 @@
       },
       {
         "country_id": "114",
-        "country_name": "Letonia",
+        "country_name": "Latvia",
         "abbreviation": "LV",
         "region_id": "2"
       },
       {
         "country_id": "115",
-        "country_name": "Líbano",
+        "country_name": "Lebanon",
         "abbreviation": "LB",
         "region_id": "17"
       },
@@ -717,7 +717,7 @@
       },
       {
         "country_id": "118",
-        "country_name": "Libia",
+        "country_name": "Libya",
         "abbreviation": "LY",
         "region_id": "4"
       },
@@ -729,19 +729,19 @@
       },
       {
         "country_id": "120",
-        "country_name": "Lituania",
+        "country_name": "Lithuania",
         "abbreviation": "LT",
         "region_id": "2"
       },
       {
         "country_id": "121",
-        "country_name": "Luxemburgo",
+        "country_name": "Luxembourg",
         "abbreviation": "LU",
         "region_id": "1"
       },
       {
         "country_id": "122",
-        "country_name": "Macao",
+        "country_name": "Macau",
         "abbreviation": "MO",
         "region_id": "9"
       },
@@ -765,13 +765,13 @@
       },
       {
         "country_id": "126",
-        "country_name": "Malasia",
+        "country_name": "Malaysia",
         "abbreviation": "MY",
         "region_id": "8"
       },
       {
         "country_id": "127",
-        "country_name": "Maldivas",
+        "country_name": "Maldives",
         "abbreviation": "MV",
         "region_id": "10"
       },
@@ -789,13 +789,13 @@
       },
       {
         "country_id": "130",
-        "country_name": "Islas Marshall",
+        "country_name": "Marshall Islnds",
         "abbreviation": "MH",
         "region_id": "9"
       },
       {
         "country_id": "131",
-        "country_name": "Martinica",
+        "country_name": "Martinique",
         "abbreviation": "MQ",
         "region_id": "11"
       },
@@ -807,7 +807,7 @@
       },
       {
         "country_id": "133",
-        "country_name": "Mauricio",
+        "country_name": "Mauritius",
         "abbreviation": "MU",
         "region_id": "5"
       },
@@ -819,7 +819,7 @@
       },
       {
         "country_id": "135",
-        "country_name": "México",
+        "country_name": "Mexico",
         "abbreviation": "MX",
         "region_id": "13"
       },
@@ -831,7 +831,7 @@
       },
       {
         "country_id": "137",
-        "country_name": "Menor Outl.Isl.",
+        "country_name": "Minor Outl.Isl.",
         "abbreviation": "UM",
         "region_id": "12"
       },
@@ -843,7 +843,7 @@
       },
       {
         "country_id": "139",
-        "country_name": "Mónaco",
+        "country_name": "Monaco",
         "abbreviation": "MC",
         "region_id": "1"
       },
@@ -861,7 +861,7 @@
       },
       {
         "country_id": "142",
-        "country_name": "Marruecos",
+        "country_name": "Morocco",
         "abbreviation": "MA",
         "region_id": "4"
       },
@@ -897,25 +897,25 @@
       },
       {
         "country_id": "149",
-        "country_name": "Neth. Antillas",
+        "country_name": "Neth. Antilles",
         "abbreviation": "AN",
         "region_id": "11"
       },
       {
         "country_id": "150",
-        "country_name": "Países Bajos",
+        "country_name": "Netherlands",
         "abbreviation": "NL",
         "region_id": "1"
       },
       {
         "country_id": "151",
-        "country_name": "Nueva Caledonia",
+        "country_name": "New Caledonia",
         "abbreviation": "NC",
         "region_id": "16"
       },
       {
         "country_id": "152",
-        "country_name": "Nueva Zelanda",
+        "country_name": "New Zealand",
         "abbreviation": "NZ",
         "region_id": "16"
       },
@@ -927,7 +927,7 @@
       },
       {
         "country_id": "154",
-        "country_name": "Níger",
+        "country_name": "Niger",
         "abbreviation": "NE",
         "region_id": "7"
       },
@@ -939,49 +939,49 @@
       },
       {
         "country_id": "156",
-        "country_name": "Islas Niue",
+        "country_name": "Niue Islands",
         "abbreviation": "NU",
         "region_id": "16"
       },
       {
         "country_id": "145",
-        "country_name": "N. Mariana Islnd",
+        "country_name": "N.Mariana Islnd",
         "abbreviation": "MP",
         "region_id": "9"
       },
       {
         "country_id": "157",
-        "country_name": "Isla Norfolk",
+        "country_name": "Norfolk Island",
         "abbreviation": "NF",
         "region_id": "16"
       },
       {
         "country_id": "158",
-        "country_name": "Corea del Norte",
+        "country_name": "North Korea",
         "abbreviation": "KP",
         "region_id": "9"
       },
       {
         "country_id": "159",
-        "country_name": "Noruega",
+        "country_name": "Norway",
         "abbreviation": "NO",
         "region_id": "1"
       },
       {
         "country_id": "160",
-        "country_name": "Omán",
+        "country_name": "Oman",
         "abbreviation": "OM",
         "region_id": "17"
       },
       {
         "country_id": "239",
-        "country_name": "Islas del Pacífico",
+        "country_name": "Pacific Islands",
         "abbreviation": "PI",
         "region_id": "16"
       },
       {
         "country_id": "161",
-        "country_name": "Pakistán",
+        "country_name": "Pakistan",
         "abbreviation": "PK",
         "region_id": "10"
       },
@@ -993,13 +993,13 @@
       },
       {
         "country_id": "163",
-        "country_name": "Panamá",
+        "country_name": "Panama",
         "abbreviation": "PA",
         "region_id": "13"
       },
       {
         "country_id": "164",
-        "country_name": "Pap. Nueva Guinea",
+        "country_name": "Pap. New Guinea",
         "abbreviation": "PG",
         "region_id": "8"
       },
@@ -1011,25 +1011,25 @@
       },
       {
         "country_id": "166",
-        "country_name": "Perú",
+        "country_name": "Peru",
         "abbreviation": "PE",
         "region_id": "15"
       },
       {
         "country_id": "167",
-        "country_name": "Filipinas",
+        "country_name": "Philippines",
         "abbreviation": "PH",
         "region_id": "8"
       },
       {
         "country_id": "168",
-        "country_name": "Islas Pitcairn",
+        "country_name": "Pitcairn Islnds",
         "abbreviation": "PN",
         "region_id": "16"
       },
       {
         "country_id": "169",
-        "country_name": "Polonia",
+        "country_name": "Poland",
         "abbreviation": "PL",
         "region_id": "2"
       },
@@ -1053,19 +1053,19 @@
       },
       {
         "country_id": "173",
-        "country_name": "Reunión",
+        "country_name": "Reunion",
         "abbreviation": "RE",
         "region_id": "5"
       },
       {
         "country_id": "174",
-        "country_name": "Rumania",
+        "country_name": "Romania",
         "abbreviation": "RO",
         "region_id": "2"
       },
       {
         "country_id": "175",
-        "country_name": "Fed de Rusia",
+        "country_name": "Russian Fed.",
         "abbreviation": "RU",
         "region_id": "2"
       },
@@ -1089,7 +1089,7 @@
       },
       {
         "country_id": "180",
-        "country_name": "Arabia Saudita",
+        "country_name": "Saudi Arabia",
         "abbreviation": "SA",
         "region_id": "17"
       },
@@ -1107,31 +1107,31 @@
       },
       {
         "country_id": "183",
-        "country_name": "Sierra Leona",
+        "country_name": "Sierra Leone",
         "abbreviation": "SL",
         "region_id": "7"
       },
       {
         "country_id": "184",
-        "country_name": "Singapur",
+        "country_name": "Singapore",
         "abbreviation": "SG",
         "region_id": "8"
       },
       {
         "country_id": "185",
-        "country_name": "Eslovaquia",
+        "country_name": "Slovakia",
         "abbreviation": "SK",
         "region_id": "2"
       },
       {
         "country_id": "186",
-        "country_name": "Eslovenia",
+        "country_name": "Slovenia",
         "abbreviation": "SI",
         "region_id": "2"
       },
       {
         "country_id": "187",
-        "country_name": "Islas Salomón",
+        "country_name": "Solomon Islands",
         "abbreviation": "SB",
         "region_id": "8"
       },
@@ -1143,19 +1143,19 @@
       },
       {
         "country_id": "189",
-        "country_name": "Sudáfrica",
+        "country_name": "South Africa",
         "abbreviation": "ZA",
         "region_id": "6"
       },
       {
         "country_id": "190",
-        "country_name": "Corea del Sur",
+        "country_name": "South Korea",
         "abbreviation": "KR",
         "region_id": "9"
       },
       {
         "country_id": "191",
-        "country_name": "España",
+        "country_name": "Spain",
         "abbreviation": "ES",
         "region_id": "1"
       },
@@ -1167,7 +1167,7 @@
       },
       {
         "country_id": "238",
-        "country_name": "apátridas",
+        "country_name": "stateless",
         "abbreviation": "STL",
         "region_id": "1"
       },
@@ -1203,7 +1203,7 @@
       },
       {
         "country_id": "197",
-        "country_name": "St.Pier - Miquel",
+        "country_name": "St.Pier - Miquel.",
         "abbreviation": "PM",
         "region_id": "12"
       },
@@ -1215,13 +1215,13 @@
       },
       {
         "country_id": "199",
-        "country_name": "Sudán",
+        "country_name": "Sudan",
         "abbreviation": "SD",
         "region_id": "4"
       },
       {
         "country_id": "200",
-        "country_name": "Surinam",
+        "country_name": "Suriname",
         "abbreviation": "SR",
         "region_id": "15"
       },
@@ -1233,37 +1233,37 @@
       },
       {
         "country_id": "202",
-        "country_name": "Suazilandia",
+        "country_name": "Swaziland",
         "abbreviation": "SZ",
         "region_id": "6"
       },
       {
         "country_id": "203",
-        "country_name": "Suecia",
+        "country_name": "Sweden",
         "abbreviation": "SE",
         "region_id": "1"
       },
       {
         "country_id": "204",
-        "country_name": "Suiza",
+        "country_name": "Switzerland",
         "abbreviation": "CH",
         "region_id": "1"
       },
       {
         "country_id": "205",
-        "country_name": "Siria",
+        "country_name": "Syria",
         "abbreviation": "SY",
         "region_id": "17"
       },
       {
         "country_id": "206",
-        "country_name": "Tayikistán",
+        "country_name": "Tadzhikistan",
         "abbreviation": "TJ",
         "region_id": "17"
       },
       {
         "country_id": "207",
-        "country_name": "Taiwán",
+        "country_name": "Taiwan",
         "abbreviation": "TW",
         "region_id": "8"
       },
@@ -1275,7 +1275,7 @@
       },
       {
         "country_id": "209",
-        "country_name": "Tailandia",
+        "country_name": "Thailand",
         "abbreviation": "TH",
         "region_id": "8"
       },
@@ -1287,7 +1287,7 @@
       },
       {
         "country_id": "211",
-        "country_name": "Islas Tokelau",
+        "country_name": "Tokelau Islands",
         "abbreviation": "TK",
         "region_id": "16"
       },
@@ -1305,25 +1305,25 @@
       },
       {
         "country_id": "214",
-        "country_name": "Túnez",
+        "country_name": "Tunisia",
         "abbreviation": "TN",
         "region_id": "4"
       },
       {
         "country_id": "215",
-        "country_name": "Turquía",
+        "country_name": "Turkey",
         "abbreviation": "TR",
         "region_id": "17"
       },
       {
         "country_id": "216",
-        "country_name": "Turkmenistán",
+        "country_name": "Turkmenistan",
         "abbreviation": "TM",
         "region_id": "17"
       },
       {
         "country_id": "217",
-        "country_name": "Turcas y Caicos",
+        "country_name": "Turks & Caicos",
         "abbreviation": "TC",
         "region_id": "11"
       },
@@ -1341,25 +1341,25 @@
       },
       {
         "country_id": "220",
-        "country_name": "Ucrania",
+        "country_name": "Ukraine",
         "abbreviation": "UA",
         "region_id": "2"
       },
       {
         "country_id": "224",
-        "country_name": "Emiratos Árabes Unidos",
+        "country_name": "United Arab Emirates",
         "abbreviation": "AE",
         "region_id": "17"
       },
       {
         "country_id": "221",
-        "country_name": "Reino Unido",
+        "country_name": "United Kingdom",
         "abbreviation": "GB",
         "region_id": "1"
       },
       {
         "country_id": "222",
-        "country_name": "Estados Unidos",
+        "country_name": "United States",
         "abbreviation": "US",
         "region_id": "12"
       },
@@ -1371,7 +1371,7 @@
       },
       {
         "country_id": "225",
-        "country_name": "Uzbekistán",
+        "country_name": "Uzbekistan",
         "abbreviation": "UZ",
         "region_id": "17"
       },
@@ -1383,7 +1383,7 @@
       },
       {
         "country_id": "227",
-        "country_name": "Ciudad del Vaticano",
+        "country_name": "Vatican City",
         "abbreviation": "VA",
         "region_id": "1"
       },
@@ -1407,13 +1407,13 @@
       },
       {
         "country_id": "232",
-        "country_name": "Samoa Occidental",
+        "country_name": "Western Samoa",
         "abbreviation": "WS",
         "region_id": "16"
       },
       {
         "country_id": "231",
-        "country_name": "Sáhara Occidental",
+        "country_name": "West Sahara",
         "abbreviation": "EH",
         "region_id": "4"
       },

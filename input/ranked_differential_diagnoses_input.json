@@ -5,7 +5,7 @@
   "pregnant": "y",
   "region": "1",
   "country_id": "221",
-  "querytext": "fever,headache,vertigo",
+  "querytext": "fever,vertigo",
   "flag": "sortbyRW_advanced",
   "suggest": "Suggest+Differential+Diagnosis",
   "searchType": "0",
