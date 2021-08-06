@@ -23,6 +23,7 @@ import json
 ## Local application imports
 from src.utils.isabel_params import (
     crds_loc,
+    crd_use,
     input_loc,
     out_loc,
     inout_files,
@@ -188,7 +189,7 @@ def url_api_request(method):
     api_call_url += "callback=" + method
 
     ## Pasting authorization credentials
-    api_call_url += "&authorization=" + get_isabel_crds()["sandbox_auth_key"]
+    api_call_url += "&authorization=" + get_isabel_crds()[crd_use]
 
 
     ## Adding method parameters

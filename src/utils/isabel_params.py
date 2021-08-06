@@ -26,8 +26,9 @@
 ## General parameters ##
 ########################
 
-## Location of credentials
+## Credentials info
 crds_loc = "../conf/local/credentials.yaml"
+crd_use = "sandbox_auth_key_SC"
 
 
 ## Location of input files
