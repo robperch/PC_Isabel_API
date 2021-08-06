@@ -25,7 +25,8 @@ from src.utils.isabel_funcs import (
 
 from src.utils.isabel_params import (
     inout_files,
-    out_loc
+    out_loc,
+    isabel_api_params,
 )
 
 
@@ -46,7 +47,7 @@ def main_func_rdd():
     """
 
     ## Building the URL required for the API request
-    method = "ranked_differential_diagnoses"
+    method = [mthd for mthd in isabel_api_params["methods"] if isabel_api_params["methods"][mthd]["usage"] == "rdd"][0]
     api_call_url = url_api_request(method)
 
     ## Sending the request to the API
@@ -55,9 +56,11 @@ def main_func_rdd():
     ## Formatting and enhancing the response
     api_resp = enhance_api_response(req.text)
 
-    ## Printing result in output file
+    ## Writing result in output file
     path = out_loc + inout_files[method]["output"]
     write_json(path, req.text)
+
+    return
 
 
 
