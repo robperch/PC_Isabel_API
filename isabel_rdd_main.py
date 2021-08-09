@@ -58,7 +58,7 @@ def main_func_rdd():
 
     ## Writing result in output file
     path = out_loc + inout_files[method]["output"]
-    write_json(path, req.text)
+    write_json(path, api_resp)
 
     return
 

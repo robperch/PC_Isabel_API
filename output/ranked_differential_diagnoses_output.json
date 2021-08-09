@@ -15,7 +15,7 @@
       {
         "diagnosis_id": "1123",
         "diagnosis_name": "Asma",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1123&category_type=spc&diagnoses_name=Asma&diagnoses_sub=1123&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1123&category_type=spc&diagnoses_name=Asma&diagnoses_sub=1123&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "true",
         "common_diagnosis": "true",
@@ -26,7 +26,7 @@
       {
         "diagnosis_id": "440",
         "diagnosis_name": "Bronquitis",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=440&category_type=spc&diagnoses_name=Bronquitis&diagnoses_sub=440&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=440&category_type=spc&diagnoses_name=Bronquitis&diagnoses_sub=440&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -37,7 +37,7 @@
       {
         "diagnosis_id": "14964",
         "diagnosis_name": "COVID-19",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=14964&category_type=standalone&diagnoses_name=COVID-19&diagnoses_sub=14964&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=14964&category_type=standalone&diagnoses_name=COVID-19&diagnoses_sub=14964&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES INFECCIOSAS",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -48,7 +48,7 @@
       {
         "diagnosis_id": "1122",
         "diagnosis_name": "Rinitis Al&#233;rgica",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1122&category_type=standalone&diagnoses_name=Rinitis Al&#233;rgica&diagnoses_sub=1122&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1122&category_type=standalone&diagnoses_name=Rinitis Al&#233;rgica&diagnoses_sub=1122&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES DE ALERGIA",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -59,7 +59,7 @@
       {
         "diagnosis_id": "2351",
         "diagnosis_name": "Influenza",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2351&category_type=standalone&diagnoses_name=Influenza&diagnoses_sub=2351&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2351&category_type=standalone&diagnoses_name=Influenza&diagnoses_sub=2351&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES INFECCIOSAS",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -70,7 +70,7 @@
       {
         "diagnosis_id": "4478",
         "diagnosis_name": "Tromboembolismo Pulmonar",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=4478&category_type=spc&diagnoses_name=Tromboembolismo Pulmonar&diagnoses_sub=4478&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=4478&category_type=spc&diagnoses_name=Tromboembolismo Pulmonar&diagnoses_sub=4478&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "true",
         "common_diagnosis": "false",
@@ -81,7 +81,7 @@
       {
         "diagnosis_id": "405",
         "diagnosis_name": "Sinusitis",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=405&category_type=spc&diagnoses_name=Sinusitis&diagnoses_sub=405&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=405&category_type=spc&diagnoses_name=Sinusitis&diagnoses_sub=405&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -92,7 +92,7 @@
       {
         "diagnosis_id": "404",
         "diagnosis_name": "Resfriado Com&#250;n &#47; Nasofaringitis",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=404&category_type=standalone&diagnoses_name=Resfriado Com&#250;n &#47; Nasofaringitis&diagnoses_sub=404&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=404&category_type=standalone&diagnoses_name=Resfriado Com&#250;n &#47; Nasofaringitis&diagnoses_sub=404&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -103,7 +103,7 @@
       {
         "diagnosis_id": "3430",
         "diagnosis_name": "Absceso Pulmonar",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3430&category_type=standalone&diagnoses_name=Absceso Pulmonar&diagnoses_sub=3430&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3430&category_type=standalone&diagnoses_name=Absceso Pulmonar&diagnoses_sub=3430&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES INFECCIOSAS",
         "red_flag": "true",
         "common_diagnosis": "false",
@@ -114,7 +114,7 @@
       {
         "diagnosis_id": "5285",
         "diagnosis_name": "Neoplasias Pulmonares",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=5285&category_type=spc&diagnoses_name=Neoplasias Pulmonares&diagnoses_sub=5285&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=5285&category_type=spc&diagnoses_name=Neoplasias Pulmonares&diagnoses_sub=5285&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -125,7 +125,7 @@
       {
         "diagnosis_id": "3641",
         "diagnosis_name": "Neumon&#237;a At&#237;pica",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3641&category_type=spc&diagnoses_name=Neumon&#237;a At&#237;pica&diagnoses_sub=3641&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3641&category_type=spc&diagnoses_name=Neumon&#237;a At&#237;pica&diagnoses_sub=3641&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "true",
         "common_diagnosis": "false",
@@ -136,7 +136,7 @@
       {
         "diagnosis_id": "478",
         "diagnosis_name": "Bronquiectasia",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=478&category_type=standalone&diagnoses_name=Bronquiectasia&diagnoses_sub=478&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=478&category_type=standalone&diagnoses_name=Bronquiectasia&diagnoses_sub=478&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -147,7 +147,7 @@
       {
         "diagnosis_id": "13881",
         "diagnosis_name": "Fibrosis Pulmonar Idiop&#225;tica",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=13881&category_type=standalone&diagnoses_name=Fibrosis Pulmonar Idiop&#225;tica&diagnoses_sub=13881&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=13881&category_type=standalone&diagnoses_name=Fibrosis Pulmonar Idiop&#225;tica&diagnoses_sub=13881&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -158,7 +158,7 @@
       {
         "diagnosis_id": "1889",
         "diagnosis_name": "Sincope",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1889&category_type=spc&diagnoses_name=Sincope&diagnoses_sub=1889&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1889&category_type=spc&diagnoses_name=Sincope&diagnoses_sub=1889&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES DEL SISTEMA NERVIOSO",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -169,7 +169,7 @@
       {
         "diagnosis_id": "2322",
         "diagnosis_name": "Aspergilosis",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2322&category_type=spc&diagnoses_name=Aspergilosis&diagnoses_sub=2322&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2322&category_type=spc&diagnoses_name=Aspergilosis&diagnoses_sub=2322&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES INFECCIOSAS",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -180,7 +180,7 @@
       {
         "diagnosis_id": "238",
         "diagnosis_name": "Reflujo Gastroesofágico",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=238&category_type=standalone&diagnoses_name=Reflujo Gastroesofágico&diagnoses_sub=238&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=238&category_type=standalone&diagnoses_name=Reflujo Gastroesofágico&diagnoses_sub=238&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES GASTROINTESTINALES",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -191,7 +191,7 @@
       {
         "diagnosis_id": "5546",
         "diagnosis_name": "EPOC",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=5546&category_type=spc&diagnoses_name=EPOC&diagnoses_sub=5546&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=5546&category_type=spc&diagnoses_name=EPOC&diagnoses_sub=5546&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "true",
@@ -202,7 +202,7 @@
       {
         "diagnosis_id": "2261",
         "diagnosis_name": "Tb Pulmonar",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2261&category_type=standalone&diagnoses_name=Tb Pulmonar&diagnoses_sub=2261&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2261&category_type=standalone&diagnoses_name=Tb Pulmonar&diagnoses_sub=2261&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -213,7 +213,7 @@
       {
         "diagnosis_id": "2217",
         "diagnosis_name": "Tos Ferina",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2217&category_type=standalone&diagnoses_name=Tos Ferina&diagnoses_sub=2217&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2217&category_type=standalone&diagnoses_name=Tos Ferina&diagnoses_sub=2217&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES INFECCIOSAS",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -224,7 +224,7 @@
       {
         "diagnosis_id": "3004",
         "diagnosis_name": "S&#237;ndromes de Aspiraci&#243;n",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3004&category_type=spc&diagnoses_name=S&#237;ndromes de Aspiraci&#243;n&diagnoses_sub=3004&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3004&category_type=spc&diagnoses_name=S&#237;ndromes de Aspiraci&#243;n&diagnoses_sub=3004&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "true",
         "common_diagnosis": "false",
@@ -235,7 +235,7 @@
       {
         "diagnosis_id": "2153",
         "diagnosis_name": "Neumon&#237;a Bacteriana",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2153&category_type=spc&diagnoses_name=Neumon&#237;a Bacteriana&diagnoses_sub=2153&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2153&category_type=spc&diagnoses_name=Neumon&#237;a Bacteriana&diagnoses_sub=2153&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "true",
         "common_diagnosis": "true",
@@ -246,7 +246,7 @@
       {
         "diagnosis_id": "3743",
         "diagnosis_name": "Neoplasias Esof&#225;gicas",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3743&category_type=spc&diagnoses_name=Neoplasias Esof&#225;gicas&diagnoses_sub=3743&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3743&category_type=spc&diagnoses_name=Neoplasias Esof&#225;gicas&diagnoses_sub=3743&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES DE CÁNCER",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -257,7 +257,7 @@
       {
         "diagnosis_id": "15102",
         "diagnosis_name": "Neuropatía Sensorial Laríngea",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=15102&category_type=standalone&diagnoses_name=Neuropatía Sensorial Laríngea&diagnoses_sub=15102&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=15102&category_type=standalone&diagnoses_name=Neuropatía Sensorial Laríngea&diagnoses_sub=15102&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -268,7 +268,7 @@
       {
         "diagnosis_id": "437",
         "diagnosis_name": "Papilomatosis Respiratoria",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=437&category_type=standalone&diagnoses_name=Papilomatosis Respiratoria&diagnoses_sub=437&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=437&category_type=standalone&diagnoses_name=Papilomatosis Respiratoria&diagnoses_sub=437&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -279,7 +279,7 @@
       {
         "diagnosis_id": "802",
         "diagnosis_name": "Neoplasias del Timo",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=802&category_type=spc&diagnoses_name=Neoplasias del Timo&diagnoses_sub=802&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=802&category_type=spc&diagnoses_name=Neoplasias del Timo&diagnoses_sub=802&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -290,7 +290,7 @@
       {
         "diagnosis_id": "1934",
         "diagnosis_name": "Malformaci&#243;n de Chiari",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1934&category_type=standalone&diagnoses_name=Malformaci&#243;n de Chiari&diagnoses_sub=1934&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=1934&category_type=standalone&diagnoses_name=Malformaci&#243;n de Chiari&diagnoses_sub=1934&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES DEL SISTEMA NERVIOSO",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -301,7 +301,7 @@
       {
         "diagnosis_id": "3247",
         "diagnosis_name": "Eosinof&#237;lica en Enfermedades Respiratorias",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3247&category_type=spc&diagnoses_name=Eosinof&#237;lica en Enfermedades Respiratorias&diagnoses_sub=3247&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=3247&category_type=spc&diagnoses_name=Eosinof&#237;lica en Enfermedades Respiratorias&diagnoses_sub=3247&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -312,7 +312,7 @@
       {
         "diagnosis_id": "14189",
         "diagnosis_name": "Metapneumovirus Humano",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=14189&category_type=standalone&diagnoses_name=Metapneumovirus Humano&diagnoses_sub=14189&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=14189&category_type=standalone&diagnoses_name=Metapneumovirus Humano&diagnoses_sub=14189&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES INFECCIOSAS",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -323,7 +323,7 @@
       {
         "diagnosis_id": "4323",
         "diagnosis_name": "Traqueomalacia",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=4323&category_type=standalone&diagnoses_name=Traqueomalacia&diagnoses_sub=4323&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=4323&category_type=standalone&diagnoses_name=Traqueomalacia&diagnoses_sub=4323&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -334,7 +334,7 @@
       {
         "diagnosis_id": "2333",
         "diagnosis_name": "Sarampión",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2333&category_type=spc&diagnoses_name=Sarampión&diagnoses_sub=2333&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2333&category_type=spc&diagnoses_name=Sarampión&diagnoses_sub=2333&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES INFECCIOSAS",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -345,7 +345,7 @@
       {
         "diagnosis_id": "5913",
         "diagnosis_name": "Síndrome de Cefalea por Tos",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=5913&category_type=standalone&diagnoses_name=Síndrome de Cefalea por Tos&diagnoses_sub=5913&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=5913&category_type=standalone&diagnoses_name=Síndrome de Cefalea por Tos&diagnoses_sub=5913&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES DEL SISTEMA NERVIOSO",
         "red_flag": "false",
         "common_diagnosis": "false",
@@ -356,7 +356,7 @@
       {
         "diagnosis_id": "2886",
         "diagnosis_name": "Neumonitis por Hipersensibilidad",
-        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2886&category_type=spc&diagnoses_name=Neumonitis por Hipersensibilidad&diagnoses_sub=2886&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=3b400f29e0a6be6ca754e68628f69932&userid=4239&emr=true",
+        "knowledge_window_url": "https://esscst.isabelhealthcare.com/search_knowledge_advanced/knowledge_window?category_id=2886&category_type=spc&diagnoses_name=Neumonitis por Hipersensibilidad&diagnoses_sub=2886&age_id=5&sex=Mujer&pregnancy=seen&region=1&text=tos&specialty_id=28&sessionId=dbdbdd83a36f99bf2c82017a7308ed22&userid=4239&emr=true",
         "specialty": "CONDICIONES PULMONARES",
         "red_flag": "false",
         "common_diagnosis": "false",
