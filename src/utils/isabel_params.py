@@ -32,7 +32,7 @@ crd_use = "sandbox_auth_key_SC"
 
 
 ## Base URL that is being used
-sel_base_url = "sandbox_sc_english"
+sel_base_url = "sandbox_sc_spanish"
 
 
 ## Location of input files
