@@ -112,9 +112,6 @@ def enhance_api_response(api_resp):
     ## Eliminating characters outside json format
     api_resp = clean_api_request(api_resp)
 
-    ## Complementing API response with relevant information
-    # api_resp = clean_api_request(api_resp)
-
     ## Formatting response
     api_resp = json.dumps(json.loads(api_resp), ensure_ascii=False, indent=2)
 
@@ -140,12 +137,12 @@ def read_json(path):
 
 
 ## Writing a JSON file
-def write_json(path, api_text_output):
+def write_json(path, enhanced_api_text_output):
     """
     Writing a JSON file
 
     :param path: (str) location of output file
-    :param api_text_output: (str) raw API output response
+    :param enhanced_api_text_output: (str) API cleaned with the `enhance_api_response` function
     :return None:
     """
 
@@ -153,7 +150,7 @@ def write_json(path, api_text_output):
     jsonFile = open(path, "w")
 
     ## Writing formated API response into file
-    jsonFile.write(enhance_api_response(api_text_output))
+    jsonFile.write(enhanced_api_text_output)
 
     ## Closing file
     jsonFile.close()
