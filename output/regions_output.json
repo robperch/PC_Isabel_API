@@ -3,63 +3,63 @@
     "region": [
       {
         "region_id": "1",
-        "region_name": "Western Europe"
+        "region_name": "Europa Occidental"
       },
       {
         "region_id": "2",
-        "region_name": "Eastern Europe"
+        "region_name": "Europa Oriental"
       },
       {
         "region_id": "3",
-        "region_name": "Africa Central"
+        "region_name": "África central"
       },
       {
         "region_id": "4",
-        "region_name": "Africa North"
+        "region_name": "África del Norte"
       },
       {
         "region_id": "5",
-        "region_name": "Africa East"
+        "region_name": "África del Este"
       },
       {
         "region_id": "6",
-        "region_name": "Africa Southern"
+        "region_name": "África del Sur"
       },
       {
         "region_id": "7",
-        "region_name": "Africa West"
+        "region_name": "África Occidental"
       },
       {
         "region_id": "8",
-        "region_name": "Asia Southeast"
+        "region_name": "El sudeste de Asia"
       },
       {
         "region_id": "9",
-        "region_name": "Asia East"
+        "region_name": "Asia del Este"
       },
       {
         "region_id": "10",
-        "region_name": "Asia South"
+        "region_name": "Asia del Sur"
       },
       {
         "region_id": "11",
-        "region_name": "Caribbean"
+        "region_name": "Caribe"
       },
       {
         "region_id": "12",
-        "region_name": "North America"
+        "region_name": "América del Norte"
       },
       {
         "region_id": "13",
-        "region_name": "America Central"
+        "region_name": "América Central"
       },
       {
         "region_id": "14",
-        "region_name": "America South (tropical)"
+        "region_name": "América del Sur (tropical)"
       },
       {
         "region_id": "15",
-        "region_name": "America South (temperate)"
+        "region_name": "América del Sur (Ecuatorial)"
       },
       {
         "region_id": "16",
@@ -67,7 +67,7 @@
       },
       {
         "region_id": "17",
-        "region_name": "Middle East"
+        "region_name": "Oriente Medio"
       }
     ]
   }
